@@ -81,7 +81,7 @@ The analysis script performs the following steps:
 
 3. **Average Ratings by Country**
 
-   ![Average Ratings by Country](images/average_ratings_country.png)
+   ![Average Ratings by Country](images/highnum.png)
 
 4. **Top 10 Countries with Highest Average Ratings**
 
