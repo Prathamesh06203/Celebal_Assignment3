@@ -105,9 +105,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-### Note:
 
-- Ensure that you have a folder named `images` in the repository to save the visualizations if you want to display them in the README.
-- Replace `https://example.com/path/to/ramen-image.jpg` with an actual link to an image relevant to your project or remove the image line.
-- Adjust paths and other settings as needed for your specific setup and directory structure.
 
