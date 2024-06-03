@@ -73,11 +73,11 @@ The analysis script performs the following steps:
 
 1. **Distribution of Ramen Ratings**
 
-   ![Distribution of Ramen Ratings](images/distribution_ratings.png)
+   ![Distribution of Ramen Ratings](images/distri.png)
 
 2. **Top 10 Brands with Highest Number of Ratings**
 
-   ![Top 10 Brands](images/top10_brands.png)
+   ![Top 10 Brands](images/avgr.png)
 
 3. **Average Ratings by Country**
 
@@ -85,11 +85,11 @@ The analysis script performs the following steps:
 
 4. **Top 10 Countries with Highest Average Ratings**
 
-   ![Top 10 Countries](images/top10_countries.png)
+   ![Top 10 Countries](images/havg.png)
 
 5. **Count of Ramen Styles for Top 10 Countries**
 
-   ![Ramen Styles](images/ramen_styles.png)
+   ![Ramen Styles](images/count.png)
 
 ## Conclusion
 
