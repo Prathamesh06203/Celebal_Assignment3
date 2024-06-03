@@ -42,8 +42,8 @@ pip install numpy pandas matplotlib seaborn
 1. Clone the repository and navigate to the project directory:
 
     ```bash
-    git clone https://github.com/your-username/ramen-ratings-analysis.git
-    cd ramen-ratings-analysis
+    git clone https://github.com/your-username/Assignment3.git
+    cd ramen
     ```
 
 2. Ensure the dataset `ramen-ratings.csv` is placed in the appropriate directory.
