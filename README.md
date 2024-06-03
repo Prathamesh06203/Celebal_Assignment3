@@ -2,7 +2,7 @@
 
 # Ramen Ratings Analysis
 
-![Ramen](![Spicy-Shoyu-Ramen-8055-I](https://github.com/Prathamesh06203/Celebal_Assignment3/assets/98202938/7ef4b1f1-4eae-43c1-a14d-4cc630a722a3))
+![Ramen](images/Spicy-Shoyu-Ramen-8055-I.jpg)
 
 ## Overview
 
