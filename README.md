@@ -5,8 +5,7 @@
 ![Ramen](images/Spicy-Shoyu-Ramen-8055-I.jpg)
 
 ## Overview
-
-This project aims to analyze and visualize the Ramen Ratings dataset. The dataset contains various ratings for different ramen brands from different countries. The analysis includes data cleaning, processing, and several visualizations to gain insights into the data.
+Ramen is a popular Japanese noodle soup dish that comes in various styles and flavors, often categorized by its broth base and toppings. This project analyzes the Ramen Ratings dataset, exploring different ramen brands, styles, and ratings from various countries. The analysis involves data cleaning, processing, and visualization to derive insights.
 
 ## Dataset
 
