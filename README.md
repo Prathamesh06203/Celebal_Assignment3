@@ -68,8 +68,13 @@ The analysis script performs the following steps:
     - Average ratings by country.
     - Top 10 countries with the highest average ratings.
     - Count of ramen styles for the top 10 countries.
+    - Swarmplot of ramen ratings for top 10 countries.
+    - Top 10 ramen varieties by count.
+    - Heatmap of average ratings by country and style.
+    - Facet Grid of Ramen Ratings Distribution by Style.
+    - Correlation Heatmap for Ratings, Brand, and Variety.
 
-### Sample Visualizations
+### Output Visualizations
 
 1. **Distribution of Ramen Ratings**
 
@@ -91,6 +96,26 @@ The analysis script performs the following steps:
 
    ![Ramen Styles](images/count.png)
 
+6. **Swarmplot of ramen ratings for top 10 countries**
+
+   ![Ramen Styles](images/swarm.png)
+
+7. **Top 15 ramen varieties by count**
+
+   ![Ramen Styles](images/var.png)
+
+8. **Heatmap of average ratings by country and style**
+
+   ![Ramen Styles](images/heat.png)
+
+9. **Facet Grid of Ramen Ratings Distribution by Style**
+
+   ![Ramen Styles](images/face.png)
+
+10. **Correlation Heatmap for Ratings, Brand, and Variety**
+
+   ![Ramen Styles](images/corr.png)
+   
 ## Conclusion
 
 This project provides an in-depth analysis of the Ramen Ratings dataset, offering insights into the distribution of ratings, popular brands, and the performance of ramen from different countries. The visualizations help in understanding the trends and patterns in the data.
